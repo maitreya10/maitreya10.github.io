@@ -22,7 +22,7 @@ author_profile: true
 
 **Systems and data** — Distributed Systems; Database Management; Operating Systems; Cloud Computing; Data Analytics
 
-**Mathematics and programming** — Statistics; Engineering Mathematics; Discrete Mathematics; Design and Analysis of Algorithms; Data-Focused Python
+**Mathematics and programming** — Real Analysis (Measure Theory); Statistics; Engineering Mathematics; Discrete Mathematics; Design and Analysis of Algorithms; Data-Focused Python
 
 <!--
 ================================================================
