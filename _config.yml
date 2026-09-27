@@ -23,7 +23,7 @@ repository               : "maitreya10/maitreya10.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mss.png"
   name             : "Maitreya (Ray) Sawai"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Security & Machine Learning"
