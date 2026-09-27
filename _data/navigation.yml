@@ -26,8 +26,8 @@ main:
   - title: "Education"
     url: /education/
 
-  - title: "Professional Experience"
-    url: /experience/
+  # - title: "Professional Experience"
+  #   url: /experience/
     
   - title: "CV"
     url: https://drive.google.com/file/d/1dzCv5VLfZAsclGOJKMlMlyHNPM6cZ6Ay/view?usp=sharing
