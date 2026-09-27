@@ -27,8 +27,8 @@ author:
   name             : "Maitreya (Ray) Sawai"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Security & Machine Learning"
-  # location         : ""
-  # employer         : ""
+  location         : # empty
+  employer         : # empty
   uri              : # URL
   email            : "msawai1@lsu.edu" 
 
