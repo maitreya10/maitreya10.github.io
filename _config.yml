@@ -27,8 +27,8 @@ author:
   name             : "Maitreya (Ray) Sawai"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Security & Machine Learning"
-  location         : ""
-  employer         : ""
+  # location         : ""
+  # employer         : ""
   uri              : # URL
   email            : "msawai1@lsu.edu" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-3651-2747"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # url
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
