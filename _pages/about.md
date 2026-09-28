@@ -11,4 +11,4 @@ I am a first-year PhD student in the Division of Electrical and Computer Enginee
 
 Outside of research I'm a Soccer enthusiast and a casual FC27 esports player.
 
-You can find my CV [here](https://drive.google.com/file/d/1dzCv5VLfZAsclGOJKMlMlyHNPM6cZ6Ay/view?usp=sharing). 
+You can find my CV [here](https://drive.google.com/file/d/1XCTpLTSPWsgiawL5W3AN5UYEIGPScy-S/view?usp=sharing). 
