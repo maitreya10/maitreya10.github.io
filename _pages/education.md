@@ -13,7 +13,7 @@ author_profile: true
   *Dean's List: Spring 2024, Fall 2024*
 
 * **July 2017 – July 2021** — [Savitribai Phule Pune University](http://www.unipune.ac.in/) (SPPU)<br>
-  B.E. in Computer Science, [Pimpri Chinchwad College of Engineering](https://www.pccoepune.com/)<br>
+  B.E. in Computer Science <br>
   *Focus: Machine Learning*
 
 ## Relevant coursework
